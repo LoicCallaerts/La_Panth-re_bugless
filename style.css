@@ -101,6 +101,11 @@ a:hover {
     right: 0;
 }
 
+.titre{
+    background: white;
+    border-radius: 20px;
+
+}
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
@@ -650,7 +655,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
 h2,
 h3,
 h4,
